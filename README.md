@@ -6,7 +6,7 @@ We have published our pre-training model, if you would like to download it, plea
 
 # Citation
 If you use the AgCBERT language model, please cite the following paper.
-'''
+'
 @inproceedings{
 }
-'''
+'
